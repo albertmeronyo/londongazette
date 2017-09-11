@@ -1,2 +1,2 @@
 # londongazette
-Scraping newspaper history
+Scraping newspaper history one HTTP request at a time
